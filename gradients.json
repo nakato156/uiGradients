@@ -1,5 +1,13 @@
 [
     {
+      "name": "Cielito",
+      "colors": ["#47f0b7", "#47eef0", "#6cddf4"]
+    }
+    {
+      "name": "python",
+      "colors": ["#2f61eb","#fcf964","#fffb00"]
+    }
+    {
         "name": "Omolon",
         "colors": ["#091E3A", "#2F80ED", "#2D9EE0"]
     },
